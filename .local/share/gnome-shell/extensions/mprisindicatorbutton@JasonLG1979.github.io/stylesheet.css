@@ -1,0 +1,50 @@
+.player-quit-button {
+  border-radius: 1.6em;
+  height: 1.6em;
+  width: 1.6em;
+}
+
+.player-quit-button:hover {
+  color: white;
+  background-color: rgb(237, 51, 59);
+}
+
+.player-quit-button:active {
+  background-color: rgb(192, 28, 40);
+}
+
+.media-controls-button {
+  padding: 0 0.6em 0 0.6em;
+}
+
+.media-controls-item {
+  spacing: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.normal-label {
+  font-weight: 400;
+}
+
+.lighter-label {
+  font-weight: 300;
+}
+
+.tool-tip-icon {
+  padding-right: 0.4em;
+}
+
+.tool-tip {
+  text-align: left;
+  font-size: 1em;
+  font-weight: 400;
+  padding: 0.4em 0.8em 0.4em 0.8em;
+  margin: 0.4em;
+  height: 1.8em;
+  min-height: 1.8em;
+  max-height: 1.8em;
+  width: 0;
+  min-width: 0;
+  max-width: 30em;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.tweaks.desktop" score="930.75" last-seen="1678152143"/>
+    <application id="brave-browser.desktop" score="14690.763598442078" last-seen="1678136152"/>
+    <application id="anki.desktop" score="940.40328979492188" last-seen="1678128617"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="19" last-seen="1678126805"/>
+    <application id="deluge.desktop" score="0" last-seen="1677892602"/>
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+    <application id="hyper.desktop" score="753.3631010055542" last-seen="1678152174"/>
+    <application id="obsidian.desktop" score="68.8125" last-seen="1677676194"/>
+    <application id="org.gnome.Calendar.desktop" score="11.5" last-seen="1678126735"/>
+    <application id="alacritty.desktop" score="12" last-seen="1678106983"/>
+    <application id="gnome-control-center.desktop" score="92.2783203125" last-seen="1678152646"/>
+    <application id="org.gnome.gedit.desktop" score="8" last-seen="1678151736"/>
+    <application id="code_code.desktop" score="4061.421875" last-seen="1678134253"/>
+    <application id="org.gnome.Nautilus.desktop" score="333.3657693862915" last-seen="1678152648"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1678116619"/>
+    <application id="org.gnome.Calculator.desktop" score="1.75" last-seen="1677586638"/>
+    <application id="google-chrome.desktop" score="3" last-seen="1678044152"/>
+    <application id="org.gnome.Terminal.desktop" score="29.75" last-seen="1678131780"/>
+    <application id="nordpass_nordpass.desktop" score="14.91159200668335" last-seen="1678136393"/>
+    <application id="org.gnome.eog.desktop" score="31.9765625" last-seen="1678152496"/>
+    <application id="io.github.jeffshee.Hidamari.desktop" score="0" last-seen="1677870846"/>
+    <application id="org.gnome.Software.desktop" score="0" last-seen="1677944532"/>
+    <application id="org.flameshot.Flameshot.desktop" score="7" last-seen="1678130318"/>
+    <application id="org.gnome.Extensions.desktop" score="97" last-seen="1678138741"/>
+    <application id="org.gnome.PowerStats.desktop" score="0" last-seen="1678134605"/>
+  </context>
+</application-state>
