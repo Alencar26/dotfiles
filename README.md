@@ -1,4 +1,4 @@
-# Dotfiles
+# dotfiles
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
