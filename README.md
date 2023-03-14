@@ -68,4 +68,4 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
 ### Apps
 - [Cavalier](https://github.com/fsobolev/cavalier)
-    - [config cavaliere]()
+    - [config cavaliere](https://github.com/Alencar26/dotfiles/tree/main/.configs/cavalier)
