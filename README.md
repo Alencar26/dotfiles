@@ -9,11 +9,14 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 ![painel-bar](./img/painel-bar.png)
 ![windows](./img/windows.png)
 ![hyper](./img/hyper-term.png)
+![cavalier-headset](./img/cavalier-headset.png)
 
 ## Info
+
 ---
 
 ### Plugins
+
 - ArcMenu
 - Blur my Shell
 - Caffeine
@@ -30,42 +33,54 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 - Workspace Indicator
 
 ### Cursor
+
 - [Bibata-Modern-Classic](https://github.com/ful1e5/Bibata_Cursor)
 
 ### Icon
+
 - Yaru (default ubuntu)
 
 ### Launcher apps
+
 - [Ulauncher](https://ulauncher.io/)
 - [theme ulauncher](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
 
 ### Terminal
-- [Hyper terminal](https://hyper.is/)
-- [hyper.js](https://github.com/Alencar26/dotfiles/blob/main/.hyper.js)
-- Plugins
-    ```javascript
-    plugins: [
-        "hyper-tabs-enhanced",
-        //"hyperterm-atom-dark",
-        "hypercwd",
-        "hyperterm-paste",
-        "hyper-statusline",
-        "hyperterm-summon",
-        "hyper-pane",
 
-    ]
-    ```
+- [Hyper terminal](https://hyper.is/)
+
+- [hyper.js](https://github.com/Alencar26/dotfiles/blob/main/.hyper.js)
+
+- Plugins
+  
+  ```javascript
+  plugins: [
+      "hyper-tabs-enhanced",
+      //"hyperterm-atom-dark",
+      "hypercwd",
+      "hyperterm-paste",
+      "hyper-statusline",
+      "hyperterm-summon",
+      "hyper-pane",
+  
+  ]
+  ```
 
 ### Neovim
+
 - [NvChad](https://github.com/NvChad/NvChad)
 
 ### Theme
- - [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
- - inspired by gruvbox
 
- ### Wallpapers
+- [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
+
+- inspired by gruvbox
+  
+  ### Wallpapers
+  
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
 
 ### Apps
+
 - [Cavalier](https://github.com/fsobolev/cavalier)
-    - [config cavaliere]()
+  - [config cavaliere]()
