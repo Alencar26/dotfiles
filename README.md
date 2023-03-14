@@ -65,3 +65,7 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
  ### Wallpapers
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
+
+### Apps
+- [Cavalier](https://github.com/fsobolev/cavalier)
+    - [config cavaliere]()
