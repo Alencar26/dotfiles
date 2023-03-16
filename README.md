@@ -10,8 +10,8 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 ![windows](./img/windows.png)
 ![hyper](./img/hyper-term.png)
 ![cavalier-headset](./img/cavalier-headset.png)
-![moosync-pomodoro](./img/moosync-pomodoro)
-![moosync-pomodoro2](./img/moosync-pomodoro2)
+![moosync-pomodoro](./img/moosync-pomodoro.png)
+![moosync-pomodoro2](./img/moosync-pomodoro2.png)
 
 ## Info
 
