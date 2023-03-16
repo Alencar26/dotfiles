@@ -10,6 +10,8 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 ![windows](./img/windows.png)
 ![hyper](./img/hyper-term.png)
 ![cavalier-headset](./img/cavalier-headset.png)
+![moosync](./img/moosync.png)
+![moosync2](./img/moosync2.png)
 
 ## Info
 
@@ -80,7 +82,10 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
   
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
 
-### Apps
+### Music's Apps
 
 - [Cavalier](https://github.com/fsobolev/cavalier)
     - [config cavaliere](https://github.com/Alencar26/dotfiles/tree/main/.configs/cavalier)
+- [Moosync](https://github.com/Moosync/Moosync)
+- [Headset](https://headsetapp.co/)
+
