@@ -1,0 +1,15 @@
+{
+    "id": "abde1e40-c364-11ed-bf6e-c768b9877575",
+    "name": "MeeCoffee",
+    "author": "al3ncar",
+    "theme": {
+        "primary": "#1d2021",
+        "secondary": "#2c2f30",
+        "tertiary": "#151515",
+        "textPrimary": "#eee0b7",
+        "textSecondary": "#8B8A88",
+        "textInverse": "#000000",
+        "accent": "#BB9A75",
+        "divider": "#BB9A75"
+    }
+}
