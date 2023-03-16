@@ -89,3 +89,5 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 - [Moosync](https://github.com/Moosync/Moosync)
 - [Headset](https://headsetapp.co/)
 
+### Apps
+ - [pomodoro](https://gnomepomodoro.org/)
