@@ -1,7 +1,8 @@
-# dotfiles
+# dotfiles - MeeCoffee
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
+![video](./img/workflow-ubuntu.mp4)
 ![home](./img/home.png)
 ![ulauncher](./img/ulauncher.png)
 ![home2](./img/home2.png)
@@ -34,23 +35,18 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 - Workspace Indicator
 
 ### Cursor
-
 - [Bibata-Modern-Classic](https://github.com/ful1e5/Bibata_Cursor)
 
 ### Icon
-
 - Yaru (default ubuntu)
 
 ### Launcher apps
-
 - [Ulauncher](https://ulauncher.io/)
-- [ulauncher-theme](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
+  - [ulauncher-theme](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
 
 ### Terminal
-
 - [Hyper terminal](https://hyper.is/)
-
-- [hyper.js](https://github.com/Alencar26/dotfiles/blob/main/.hyper.js)
+  - [hyper.js](https://github.com/Alencar26/dotfiles/blob/main/.hyper.js)
 
 - Plugins
   
@@ -62,32 +58,32 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
       "hyperterm-paste",
       "hyper-statusline",
       "hyperterm-summon",
-      "hyper-pane",
-  
+      "hyper-pane"
   ]
   ```
 
 ### Neovim
-
 - [NvChad](https://github.com/NvChad/NvChad)
 
 ### Theme
-
 - [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
 
 - inspired by gruvbox
   
   ### Wallpapers
-  
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
 
 ### Music's Apps
-
-- [Cavalier](https://github.com/fsobolev/cavalier)
-    - [config cavaliere](https://github.com/Alencar26/dotfiles/tree/main/.configs/cavalier)
 - [Moosync](https://github.com/Moosync/Moosync)
     - [moosync-theme](https://github.com/Alencar26/dotfiles/tree/main/.configs/moosync-theme)
 - [Headset](https://headsetapp.co/)
+
+### Audio Visualizer
+- [Cavalier](https://github.com/fsobolev/cavalier)
+    - [cavaliere config/theme](https://github.com/Alencar26/dotfiles/tree/main/.configs/cavalier)
+
+- [cava](https://github.com/karlstav/cava)
+    - [cava config/theme](https://github.com/Alencar26/dotfiles/tree/main/.configs/cava)
 
 ### Apps
  - [pomodoro](https://gnomepomodoro.org/)
