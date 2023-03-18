@@ -2,11 +2,7 @@
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
-<<<<<<< HEAD
 [![video](./img/video.png)](https://www.youtube.com/watch?v=edqWhlBygPM)
-=======
-[![workflow](./img/workflow-ubuntu.gif)](https://www.youtube.com/watch?v=edqWhlBygPM)
->>>>>>> 690be648c6f65dae3f89dbdab629e8c2606ac1f2
 ![home](./img/home.png)
 ![ulauncher](./img/ulauncher.png)
 ![home2](./img/home2.png)
