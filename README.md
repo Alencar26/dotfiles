@@ -2,7 +2,7 @@
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
-![video](./img/workflow-ubuntu.mp4)
+https://github.com/Alencar26/dotfiles/blob/main/img/workflow-ubuntu.mp4
 ![home](./img/home.png)
 ![ulauncher](./img/ulauncher.png)
 ![home2](./img/home2.png)
