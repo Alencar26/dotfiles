@@ -44,7 +44,7 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 ### Launcher apps
 
 - [Ulauncher](https://ulauncher.io/)
-- [theme ulauncher](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
+- [ulauncher-theme](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
 
 ### Terminal
 
@@ -86,6 +86,7 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 - [Cavalier](https://github.com/fsobolev/cavalier)
     - [config cavaliere](https://github.com/Alencar26/dotfiles/tree/main/.configs/cavalier)
 - [Moosync](https://github.com/Moosync/Moosync)
+    - [moosync-theme](https://github.com/Alencar26/dotfiles/tree/main/.configs/moosync-theme)
 - [Headset](https://headsetapp.co/)
 
 ### Apps
