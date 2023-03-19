@@ -2,6 +2,7 @@
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
+Video youtube:
 [![video](./img/video.png)](https://www.youtube.com/watch?v=0hiZ8z1fzGI)
 ![home](./img/home.png)
 ![ulauncher](./img/ulauncher.png)
