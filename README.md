@@ -62,7 +62,24 @@ Video youtube:
       "hyper-pane"
   ]
   ```
-
+### Shell
+  -[ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+  -[oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
+    - oh my zsh plugins:
+      -[git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+      -[git-flow](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git-flow)
+      -[compleat](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/compleat)
+      -[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+      -[zsh-completions](https://github.com/clarketm/zsh-completions)
+      -[k](https://github.com/supercrabtree/k)
+  -[Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  -[bat](https://github.com/sharkdp/bat)
+  -[exa](https://github.com/ogham/exa)
+    -[exa site](https://the.exa.website/)
+  -[nnn](https://github.com/jarun/nnn)
+  -[ranger](https://github.com/ranger/ranger)
+  -[gitql](https://github.com/filhodanuvem/gitql)
+  
 ### Neovim
 - [NvChad](https://github.com/NvChad/NvChad)
 
@@ -71,7 +88,7 @@ Video youtube:
 
 - inspired by gruvbox
   
-  ### Wallpapers
+### Wallpapers
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
 
 ### Music's Apps
