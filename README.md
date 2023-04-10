@@ -20,21 +20,22 @@ Video youtube:
 
 ### Plugins
 
-- ArcMenu
-- Blur my Shell
-- Caffeine
-- Impatience
-- Just Perfection
-- Launch new instance
-- Mpris Indicator Button
-- No Titlebar When Maximized
-- Rounded Window Sizer
-- User Themes
-- Vitals
-- WindowNavigator  
-- WinTile: Windows 10 window tiling for GNOME
-- Workspace Indicator
+- [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
+- [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
+- [Space Bar](https://extensions.gnome.org/extension/5090/space-bar/)
+- [Top Bar Organizer](https://extensions.gnome.org/extension/4356/top-bar-organizer/)
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
+- [Impatience](https://extensions.gnome.org/extension/277/impatience/)
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+- [Rounded Window Sizer](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
+- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- [Unite](https://github.com/hardpixel/unite-shell)
+- [Vitals](https://extensions.gnome.org/extension/1460/vitals/) 
+- [Pop-Shell](https://github.com/pop-os/shell)
 
+### Config gsettings
+  - [gsettings conf](https://github.com/Alencar26/dotfiles/blob/main/gsettings_gnome.sh)
 ### Cursor
 - [Bibata-Modern-Classic](https://github.com/ful1e5/Bibata_Cursor)
 
@@ -46,10 +47,11 @@ Video youtube:
   - [ulauncher-theme](https://github.com/Alencar26/dotfiles/tree/main/.local/share/ulauncher)
 
 ### Terminal
+- [Alacritty](https://github.com/alacritty/alacritty)
 - [Hyper terminal](https://hyper.is/)
   - [hyper.js](https://github.com/Alencar26/dotfiles/blob/main/.hyper.js)
 
-- Plugins
+- Plugins hyper
   
   ```javascript
   plugins: [

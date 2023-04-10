@@ -1,10 +1,6 @@
-/* SMOOTH43 */
-
-/* colors */
-/* accent_bg: #3584e4 */
-/* hover_bg: #4f5761 */
-/* accent_fg: #f0ead2 */
-/* slider_red: #bb6271 */
+/*
+MeeCoffee is a custom version of the SMOOTH43
+*/
 
 .workspace-background{
   border: 1px solid rgba(255, 255, 255, 0.03);
@@ -230,7 +226,7 @@
   border: none;
   border-radius: 9px;
   border: 1px solid rgba(255, 255, 255, 0.03);
-  background-image: url('/home/al3ncar/.config/background.jpg');
+  background-image: url('/home/al3ncar/.config/background.png');
   background-size: cover;
 }
 .workspace-thumbnail-indicator {
@@ -652,7 +648,7 @@ StEntry:hover, StEntry:focus, StEntry:active{
   border-radius: 25px;
   padding: 12px;
   spacing: 6px;
-  margin-bottom: 12px;
+  margin-bottom: 22px;
   border: 2px solid #bb9a75;
 }
 .dash-label {
@@ -818,7 +814,7 @@ StEntry:hover, StEntry:focus, StEntry:active{
 .dash-item-container .show-apps,
 .dash-item-container .app-well-app,
 .dash-item-container .grid-search-result {
-  padding-bottom: 12px;
+  padding-bottom: 22px;
 }
 
 .dash-separator {
@@ -976,7 +972,7 @@ StWidget.focused .app-well-app-running-dot {
 }
 
 .list-search-result .list-search-result-content {
-  spacing: 6px;
+  spacing: 6px; 
 }
 
 .list-search-result .list-search-result-title {
@@ -1016,6 +1012,7 @@ StWidget.focused .app-well-app-running-dot {
   margin-bottom: 4em;
   spacing: 12px;
   padding: 12px 18px;
+  margin-bottom: -20px; /*esconder a barra de workspace switch*/
 }
 
 .ws-switcher-indicator {
@@ -1032,6 +1029,8 @@ StWidget.focused .app-well-app-running-dot {
   padding: 0.3633333333em;
   margin: 0.7266666667em;
 }
+
+
 
 /*============================ LINKS =========================*/
 
