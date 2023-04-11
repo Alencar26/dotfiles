@@ -35,6 +35,11 @@ Video old workspace:
 
 ### Config gsettings
   - [gsettings conf](https://github.com/Alencar26/dotfiles/blob/main/gsettings_gnome.sh)
+
+### Gnome Theme
+- [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
+- inspired by gruvbox
+
 ### Cursor
 - [Bibata-Modern-Classic](https://github.com/ful1e5/Bibata_Cursor)
 
@@ -83,12 +88,7 @@ Video old workspace:
   
 ### Neovim
 - [NvChad](https://github.com/NvChad/NvChad)
-
-### Gnome Theme
-- [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
-
-- inspired by gruvbox
-  
+ 
 ### Wallpapers
   - [wallpapers](https://github.com/Alencar26/dotfiles/tree/main/wallpapers)
 
