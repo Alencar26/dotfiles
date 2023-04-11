@@ -11,7 +11,7 @@ Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
 ---
 
-Old workspace video:
+Video old workspace:
 [![video](./img/video.png)](https://www.youtube.com/watch?v=0hiZ8z1fzGI)
 ## Info
 
