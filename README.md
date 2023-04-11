@@ -2,18 +2,17 @@
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
-Video youtube:
-[![video](./img/video.png)](https://www.youtube.com/watch?v=0hiZ8z1fzGI)
 ![home](./img/home.png)
-![ulauncher](./img/ulauncher.png)
+![launcher](./img/launcher.png)
 ![home2](./img/home2.png)
-![calendar](./img/calendar.png)
-![painel-bar](./img/painel-bar.png)
-![windows](./img/windows.png)
-![hyper](./img/hyper-term.png)
+![code](./img/code.png)
+![brave](./img/brave.png)
 ![moosync-pomodoro](./img/moosync-pomodoro.png)
-![moosync-pomodoro2](./img/moosync-pomodoro2.png)
 
+---
+
+Old workspace video:
+[![video](./img/video.png)](https://www.youtube.com/watch?v=0hiZ8z1fzGI)
 ## Info
 
 ---
@@ -85,7 +84,7 @@ Video youtube:
 ### Neovim
 - [NvChad](https://github.com/NvChad/NvChad)
 
-### Theme
+### Gnome Theme
 - [link](https://github.com/Alencar26/dotfiles/tree/main/.themes)
 
 - inspired by gruvbox
