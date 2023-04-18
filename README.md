@@ -2,7 +2,7 @@
 
 Personal Dotfiles - Ubuntu 22.04 LTS / Gnome 42.5
 
-![home](./img/home.png)
+![home](./img/workspace.png)
 ![launcher](./img/launcher.png)
 ![home2](./img/home2.png)
 ![code](./img/code.png)
