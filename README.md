@@ -106,3 +106,25 @@ Video old workspace:
 
 ### Apps
  - [pomodoro](https://gnomepomodoro.org/)
+
+### Arcmenu
+```bash
+  cd ~/.local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com
+
+  nvim styleshueet.css
+```
+- And paste the following
+- 
+  ``` css
+  .arcmenu-menu > * > * > * > * > *:first-child {
+      border-color: #bb9a75;
+      border-radius: 11px;
+      margin: 0;
+      padding: 40px;
+      padding-top: 60px;
+      padding-bottom: 60px;
+      background-image: url("/home/al3ncar/.config/space.png"); 
+      background-size: cover;
+  }
+  .arcmenu-menu > * > *{ padding: 0; }
+  ```
