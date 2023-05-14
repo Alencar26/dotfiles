@@ -1,6 +1,4 @@
-/*
-MeeCoffee is a custom version of the SMOOTH43
-*/
+/* MeeCoffee is a custom version of the SMOOTH43 */
 
 .workspace-background{
   border: 1px solid rgba(255, 255, 255, 0.03);
@@ -12,6 +10,7 @@ MeeCoffee is a custom version of the SMOOTH43
   /* margin-top: 2px; */
   /* margin-bottom: 2px; */
   margin: 5px 10px;
+  margin-bottom: 0px; /* por causa do popshell que já tem 5px de margem */
 }
 
 #panel.unlock-screen,
@@ -30,8 +29,8 @@ MeeCoffee is a custom version of the SMOOTH43
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.03);
   color: #f0ead2;
   padding: 3px;
-	margin-left: 5px;
-	margin-right: 5px;
+	margin-left: 3px;
+	margin-right: 3px;
 	font-size: 15px;
 }
 .clock-display StIcon{
@@ -140,7 +139,7 @@ MeeCoffee is a custom version of the SMOOTH43
   color: #f0ead2;
 }
 
-.toggle-switch{
+/*.toggle-switch{
   background-image: url("./toggle-on.svg");
   background-color: transparent;
   border-radius: 10px;
@@ -148,7 +147,7 @@ MeeCoffee is a custom version of the SMOOTH43
 .toggle-switch:checked{
   background-image: url("./toggle-off.svg");
   background-color: #b65d14;
-}
+}*/
 .dnd-button:hover{
   background-color: #595959 !important;
   border: 1px solid transparent !important;
@@ -226,7 +225,7 @@ MeeCoffee is a custom version of the SMOOTH43
   border: none;
   border-radius: 9px;
   border: 1px solid rgba(255, 255, 255, 0.03);
-  background-image: url('/home/al3ncar/.config/background.png');
+  background-image: url('/home/al3ncar/.config/background.jpg');
   background-size: cover;
 }
 .workspace-thumbnail-indicator {
@@ -648,7 +647,7 @@ StEntry:hover, StEntry:focus, StEntry:active{
   border-radius: 25px;
   padding: 12px;
   spacing: 6px;
-  margin-bottom: 22px;
+  margin-bottom: 15px;
   border: 2px solid #bb9a75;
 }
 .dash-label {
@@ -814,7 +813,7 @@ StEntry:hover, StEntry:focus, StEntry:active{
 .dash-item-container .show-apps,
 .dash-item-container .app-well-app,
 .dash-item-container .grid-search-result {
-  padding-bottom: 22px;
+  padding-bottom: 15px;
 }
 
 .dash-separator {
