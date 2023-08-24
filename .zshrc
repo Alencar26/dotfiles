@@ -128,6 +128,8 @@ export RUST_HOME="$HOME/.cargo"
 export PATH=$RUST_HOME/bin:$PATH
 #---------------------------------drivers Selenium
 export PATH=~/www/drivers-selenium/chromedriver_linux64:$PATH
+export PATH=~/www/drivers-selenium/geckodriver:$PATH
+export PATH=~/Apps/vifmimg:$PATH
 #---------------------------------NVM for nodejs
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -137,12 +139,17 @@ export NVM_DIR="$HOME/.nvm"
 alias c="clear"
 alias v="nvim"
 alias cat="batcat --paging=never"
+alias CAT='/bin/cat'
 alias bat=batcat
 alias idea="idea.sh"
 alias studio="studio.sh"
 alias pixel4="~/Android/Sdk/emulator/emulator -avd Pixel4-Android11"
 alias vmo="~/.ssh/vmo.sh"
 alias robot='python3 -m robot'
+alias files='nautilus'
+alias sman='tldr'
+alias pretty_json='jq <<< $1'
+#alias http='httpie'
 #cd
 alias ..="cd .."
 alias ..2="cd ../.."
